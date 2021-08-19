@@ -36,8 +36,4 @@
 <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed873&langs_count=5&theme=tokyonight" height=200 />
 </a>
-<br>
-<a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=mohammed873&theme=rogue" height=250 alt="graph"/>
-</a>
 </div>
